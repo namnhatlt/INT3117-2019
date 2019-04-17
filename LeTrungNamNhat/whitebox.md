@@ -32,9 +32,9 @@
 
 ## **<u>Step 2: Paths</u>**
 #### **Path 1:** 1 &rarr; 2 
-#### **Path 1:** 4 &rarr; 5 &rarr; 6 &rarr; 7 &rarr; 8 &rarr; 9 &rarr; 7
-#### **Path 1:** 4 &rarr; 5 &rarr; 6 &rarr; 7 &rarr; 10 &rarr; 11 &rarr; 12
-#### **Path 1:** 4 &rarr; 5 &rarr; 6 &rarr; 7 &rarr; 10 &rarr; 13 &rarr; 14 &rarr; 7
+#### **Path 2:** 4 &rarr; 5 &rarr; 6 &rarr; 7 &rarr; 8 &rarr; 9 &rarr; 7
+#### **Path 3:** 4 &rarr; 5 &rarr; 6 &rarr; 7 &rarr; 10 &rarr; 11 &rarr; 12
+#### **Path 4:** 4 &rarr; 5 &rarr; 6 &rarr; 7 &rarr; 10 &rarr; 13 &rarr; 14 &rarr; 7
 
 ## **<u>Step 3: Path equation </u>**
 
